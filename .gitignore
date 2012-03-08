@@ -3,3 +3,4 @@ bin/
 Ext.Net.UX/obj/
 Ext.Net.UX/bin/
 *.suo
+*.user

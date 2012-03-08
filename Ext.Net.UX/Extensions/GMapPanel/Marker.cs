@@ -16,10 +16,10 @@
  */
 
 /*
-* @version:		1.0.0
+* @version:		2.0.0
 * @author:		Ext.NET, Inc. http://www.ext.net/
-* @date:		2009-11-15
-* @copyright:	Copyright (c) 2010, Ext.NET, LLC or as noted within each 
+* @date:		2012-02-15
+* @copyright:	Copyright (c) 2007-2012, Ext.NET, LLC or as noted within each 
 * 				applicable file LICENSE.txt file
 * @license:		LGPL 3.0 License
 * @website:		http://www.ext.net/
@@ -27,6 +27,7 @@
 
 using System.ComponentModel;
 using System.Web.UI;
+using Ext.Net;
 
 namespace Ext.Net.UX
 {
